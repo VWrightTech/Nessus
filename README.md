@@ -10,8 +10,7 @@ Discover, Prioritize, Assess, Report, Remediate, Verify and Conducted vulnerabil
 <h2>Environments Used</h2>
   - <b>Nessus</b> 
   - <b>Vmware WorkStation</b> 
-<h2>Features</h2>
-- <b>Windows Update</b>
+<h2>Proccess</h2>
 - <b>Discover, Prioritize, Assess, Report, Remediate, Verify</b> 
 
 <h2>Vulnerability Management</h2>
