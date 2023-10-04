@@ -16,26 +16,22 @@ Discover, Prioritize, Assess, Report, Remediate, Verify and Conducted vulnerabil
 <h2>Vulnerability Management</h2>
 
 <p align="center">
-Vulnerability <br/>
-<img src="https://i.postimg.cc/GtLkzxqn/ad.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Discover 45 Vulnerabilities <br/>
+<img src="https://i.postimg.cc/wBMx8syh/Screenshot-2023-10-04-161454.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DNS: <br/>
-<img src="https://i.postimg.cc/yYgqdcCv/dns.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-Shared folder: <br/>
-<img src="https://i.postimg.cc/V6cjvfKc/44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Prioritize <br/>
+<img src="https://i.postimg.cc/QN08fbnf/Nessus.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP:  <br/>
-<img src="https://i.postimg.cc/sg4VJ7Hs/dhcp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Assess/Report:  <br/>
+<img src="https://i.postimg.cc/gkjghzZg/Screenshot-2023-10-04-161835.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
+Remediate <br/>
+<img src="https://i.postimg.cc/6TJYrRRn/Screenshot-2023-10-04-161009.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
-Azure:  <br/>
-<img src="https://i.postimg.cc/3N86Y0CC/azz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-Azure Users: <br/>
-<img src="https://i.postimg.cc/MZtRTfmM/ad1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Verify <br/>
+<img src="https://i.postimg.cc/xTDwyb96/nessue-no-vul.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
